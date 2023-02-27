@@ -15,7 +15,7 @@ Ths repository is associated with our RAL submission paper: "Visibility-Aware Co
 After installing the dependencies, you can build our propsed MPC package as follows:
 ``` 
 cd your_catkin_ws/src
-git clone https://github.com/Houman-HM/vacna
+git clone https://github.com/Houman-HM/VACNA
 cd .. && catkin build
 source your_catkin_ws/devel/setup.bash
 ```
