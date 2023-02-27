@@ -1,10 +1,6 @@
 # VACNA
 Ths repository is associated with our RAL submission paper: "Visibility-Aware Cooperative Planning with Applcation in Inventory Management"
 
-
-# cem_vis_planner
-The repository is associated with our RAL + IROS 2022 submission Visibility-Aware Navigation with Batch Projection Augmented Cross-Entropy Method over a Learned Occlusion Cost.
-
 # Dependecies:
 
 * [JAX](https://github.com/google/jax)
