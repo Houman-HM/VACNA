@@ -40,11 +40,3 @@ rosrun vacna planner_gaussian.py
 ```
 rosrun vacna planner_cvae.py
 ```
-
-## Hyper parameters used in the optimization
-
-**Algorithm 2:** 
-
-| **Parameter** | Occlusion weight | CEM batch size| projection batch size | &rho; | Smoohtness weight|
-| :----: | :----: | :----:  | :----:  | :----:  | :----:|
-| **Value**| 10000 | 500 | 100 | 1 | 10 |
