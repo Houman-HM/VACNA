@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<robot
+  name="quadrotor"
+  xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <!-- Included URDF Files -->
+    <xacro:include filename="$(find bebop_gazebo)/urdf/bebop_base.urdf.xacro" />
+    <xacro:bebop_base_macro />
+
+    <xacro:property name="laser_size_x" value="0.03"/>
+    <xacro:property name="laser_size_y" value="0.03"/>
+    <xacro:property name="laser_size_z" value="0.04"/>
+    <xacro:property name="laser_origin_x" value="0.0"/>
+    <xacro:property name="laser_origin_y" value="0"/>
+    <xacro:property name="laser_origin_z" value="0.08"/>
+
+  <xacro:property name="base_radius" value="0.05"/>
+  <xacro:property name="base_height" value="0.05"/>
+  <xacro:property name="laz_radius" value="0.04"/>
+  <xacro:property name="laz_height" value="0.1"/>
+  
+</robot>
