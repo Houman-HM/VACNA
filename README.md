@@ -9,7 +9,7 @@ Ths repository is associated with our RAL submission paper: "Visibility-Aware Co
 * [gazebo2rviz](https://github.com/andreasBihlmaier/gazebo2rviz) (If you need the RViz visualization)
 
 ## Demo Video
-
+[![Watch the video](https://img.youtube.com/vi/jXQJUyfzIzU/maxresdefault.jpg)](https://youtu.be/jXQJUyfzIzU)
 
 ## Installation procedure
 After installing the dependencies, you can build our propsed MPC package as follows:
