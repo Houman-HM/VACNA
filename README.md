@@ -1,7 +1,7 @@
 # VACNA
 Ths repository is associated with our RAL submission paper: "VACNA: Visibility-Aware Cooperative Planning with Applcation in Inventory Management"
 
-# Dependecies:
+# Dependencies:
 
 * [JAX](https://github.com/google/jax)
 * [bebop_simulator](https://github.com/Houman-HM/bebop_simulator/tree/bebop_hokuyo)
