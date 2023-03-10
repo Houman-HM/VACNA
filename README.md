@@ -58,4 +58,4 @@ pip install -r requirements.txt
 ```
 3. Download the [training dataset](https://owncloud.ut.ee/owncloud/s/HEKBXwse9iSJwEZ) and extract the zip file to the main directory.
 
-4. The training example is outlined in the [Jupyter Notebook](https://github.com/Houman-HM/VACNA/blob/main/Training%20VacnaNet.ipynb).
+4. The training pipeline is outlined in the following [Jupyter Notebook](https://github.com/Houman-HM/VACNA/blob/main/Training%20VacnaNet.ipynb).
