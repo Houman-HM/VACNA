@@ -40,3 +40,22 @@ rosrun vacna planner_gaussian.py
 ```
 rosrun vacna planner_cvae.py
 ```
+
+## Training the CVAE Model
+
+1. Clone this repository:
+
+```
+git clone https://github.com/Houman-HM/VACNA.git
+cd VACNA
+```
+2. Create a conda environment and install the dependencies:
+
+```
+conda create -n vacna python=3.8
+conda activate vacna
+pip install -r requirements.txt
+```
+3. Download the [training dataset](https://owncloud.ut.ee/owncloud/s/HEKBXwse9iSJwEZ) and extract the zip file to the main directory.
+
+4. The training example is shown in the [Jupyter Notebook](https://github.com/Houman-HM/VACNA/blob/main/Training%20HMNet.ipynb) and can also be viewed using [Notebook Viewer](https://nbviewer.org/github/Houman-HM/VACNA/blob/main/Training%20HMNet.ipynb).
