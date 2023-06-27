@@ -43,6 +43,8 @@ rosrun vacna planner_cvae.py
 
 ## Training the CVAE Model
 
+![HMNet Pipeline_page-0001](https://github.com/jatan12/MPC-Bi-Level/assets/38403732/b1fda1a8-c7cd-4e86-9ea5-13ee0e4fa50b)
+
 1. Clone this repository:
 
 ```
